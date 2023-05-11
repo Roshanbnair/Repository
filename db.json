@@ -1,0 +1,72 @@
+{
+  "contacts": [
+    {
+      "id": "ca2",
+      "name": "Ervin H",
+      "email": "Shanna@melissa.tv",
+      "photo": "https://tse2.mm.bing.net/th?id=OIP.hxknN5b25zel3hJCKa_xmQHaJi&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Deckow-Crist",
+      "title": "Network Admin",
+      "groupId": "2"
+    },
+    {
+      "id": "ca3",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.bnMZqZBnjB_bx2yrH54X-QHaLI&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Romaguera-Jacobson",
+      "title": "Tester",
+      "groupId": "3"
+    },
+    {
+      "id": "ca4",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "photo": "https://tse3.mm.bing.net/th?id=OIP.JAKbO1hgHRWAwjGNNVAgnAHaIr&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Robel-Corkery",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "id": "ca5",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "photo": "https://img.izismile.com/img/img12/20190404/640/internet_has_chosen_the_most_beautiful_hollywood_actresses_of_all_time_640_high_04.jpg",
+      "mobile": "9876543210",
+      "company": "Keebler LLC",
+      "title": "HR",
+      "groupId": "1"
+    },
+    {
+      "id": "ca8",
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "photo": "https://qph.fs.quoracdn.net/main-qimg-db4e696e7c0905ee34f311d49135e607",
+      "mobile": "9876543210",
+      "company": "Abernathy Group",
+      "title": "Developer",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}
